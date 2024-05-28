@@ -1,0 +1,361 @@
+[2024-05-27 20:27:25,010: INFO: main: custom logging]
+[2024-05-27 21:18:12,069: INFO: common: Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-27 21:18:12,072: INFO: common: Archivo YAML: params.yaml cargado con éxito]
+[2024-05-27 21:20:25,665: INFO: common: Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-27 21:20:25,668: INFO: common: Archivo YAML: params.yaml cargado con éxito]
+[2024-05-27 21:20:25,670: INFO: common: Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-27 21:20:25,673: INFO: common: Directorio creado en: artifacts]
+[2024-05-27 21:20:25,675: INFO: common: Directorio creado en: artifacts/data_ingestion]
+[2024-05-27 21:20:26,418: INFO: 2131284804: artifacts/data_ingestion/sales_train_merged.rar descargado con la siguiente información: 
+Server: GitHub.com
+Date: Mon, 27 May 2024 19:20:26 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"241070a42c3edf01e97036d3ad6b8b28"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com api.githubcopilot.com objects-origin.githubusercontent.com copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com copilot-workspace.githubnext.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=9xGnjzh7PxjO0WR5b7XrVoY9VoQyEfHUQvQ2eV6pufqsBIgvqpX3wbfcSdpLya1bkGeC0lqcOOEgOTyoeSWXLy%2BxZuXRloVj7bzglHXimgevsRzwn7HF4sRBgC2Iahz14pCImg2bc%2FbyQnox58MfOdspAk4l6%2BvPK4d0Is1Y9X5GIBSAgYa9nZE%2BRIDZVZW2h67WwZM1Uba2dNav%2Ba3renCR7HyR40ztsRtBukXFAUwdLFkfScL%2B8K10z7jFdS7A5Q8fAOXCB6t5etDPf2XPew%3D%3D--4kNedjJWMxjCFkmI--U57oFwRRIKYSp%2Bf5lNrXQw%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.2108607780.1716837626; Path=/; Domain=github.com; Expires=Tue, 27 May 2025 19:20:26 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Tue, 27 May 2025 19:20:26 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: 9857:6FC7E:10E42AB8:11285FF2:6654DCF9
+connection: close
+
+]
+[2024-05-27 21:25:43,575: INFO: common: Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-27 21:25:43,586: INFO: common: Archivo YAML: params.yaml cargado con éxito]
+[2024-05-27 21:25:43,589: INFO: common: Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-27 21:25:43,591: INFO: common: Directorio creado en: artifacts]
+[2024-05-27 21:25:43,592: INFO: common: Directorio creado en: artifacts/data_ingestion]
+[2024-05-27 21:25:43,594: INFO: 3808623609: El archivo ya existe con tamaño: ~ 146 KB]
+[2024-05-27 21:25:59,640: INFO: common: Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-27 21:25:59,643: INFO: common: Archivo YAML: params.yaml cargado con éxito]
+[2024-05-27 21:25:59,645: INFO: common: Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-27 21:25:59,646: INFO: common: Directorio creado en: artifacts]
+[2024-05-27 21:25:59,648: INFO: common: Directorio creado en: artifacts/data_ingestion]
+[2024-05-27 21:25:59,650: INFO: 3808623609: El archivo ya existe con tamaño: ~ 146 KB]
+[2024-05-27 21:28:37,931: ERROR: 151410629: Error al descargar el archivo: HTTP Error 404: Not Found]
+[2024-05-27 21:28:37,932: ERROR: 151410629: Ocurrió un error durante el proceso de ingesta de datos.]
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Temp\ipykernel_2396\151410629.py", line 105, in <module>
+    data_ingestion.download_file()
+  File "C:\Users\Lenovo\AppData\Local\Temp\ipykernel_2396\151410629.py", line 51, in download_file
+    filename, headers = request.urlretrieve(
+                        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\urllib\request.py", line 240, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+                            ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\urllib\request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\urllib\request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\urllib\request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\urllib\request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\urllib\request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Python312\Lib\urllib\request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+[2024-05-27 21:41:13,148: INFO: main: custom logging]
+[2024-05-27 21:44:49,086: INFO: main: custom logging]
+[2024-05-27 21:45:32,040: INFO: main: custom logging]
+[2024-05-27 21:49:33,900: INFO: main: custom logging]
+[2024-05-27 21:51:22,598: INFO: main: custom logging]
+[2024-05-27 21:51:48,336: INFO: main: custom logging]
+[2024-05-28 12:32:55,791: INFO: main: custom logging]
+[2024-05-28 12:37:06,338: INFO: main: custom logging]
+[2024-05-28 12:37:07,095: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-28 12:37:07,098: INFO: common: Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-28 12:37:07,100: INFO: common: Archivo YAML: params.yaml cargado con éxito]
+[2024-05-28 12:37:07,101: INFO: common: Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-28 12:37:07,101: INFO: common: Directorio creado en: artifacts]
+[2024-05-28 12:37:07,102: INFO: common: Directorio creado en: artifacts/data_ingestion]
+[2024-05-28 12:37:08,001: INFO: data_ingestion: artifacts/data_ingestion/sales_train_merged.zip download! with following info: 
+Server: GitHub.com
+Date: Tue, 28 May 2024 10:37:08 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"5ddb4ba6bdf1ee2ec4e73075a709404c"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com api.githubcopilot.com objects-origin.githubusercontent.com copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com copilot-workspace.githubnext.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=s50MOB%2B5STa%2BsfmOMR%2FZMCBDgUlvPJYf56UKj2mYI5ziJcoKzKf2q%2FgWLdF7vLXf63lRv1wddrbvrIm9BPICOJ9N2Xd6wXWHwAdyyq0nvNQYv1LbQuClFgehWIxrMimEWKIofsIptkgQQy6KVner17nkerw%2FaIxnwytvZef1are%2FfsOomAzwNLjYqHhNCHo8F3pN9WuwaK0US%2BfbdyTYciIX7C2q9DeaFP2Mo1IoEl40akYb%2FuWfB4Fwu%2FpNrcHtndhqbDIsRh9f%2F5XloU%2FgOA%3D%3D--Y%2FGTwBzMKu8y9Omp--mn760MogxVFWyq3QB3qIOw%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.520944322.1716892627; Path=/; Domain=github.com; Expires=Wed, 28 May 2025 10:37:07 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Wed, 28 May 2025 10:37:07 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: 9AD0:8073B:40B2B30:41B5F6B:6655B3D3
+connection: close
+
+]
+[2024-05-28 12:37:08,090: ERROR: main: File is not a zip file]
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\main.py", line 14, in <module>
+    data_ingestion.main()
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\src\pipe_forecast\pipeline\stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\src\pipe_forecast\components\data_ingestion.py", line 37, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\zipfile\__init__.py", line 1341, in __init__
+    self._RealGetContents()
+  File "C:\Python312\Lib\zipfile\__init__.py", line 1408, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2024-05-28 12:39:18,185: INFO: main: custom logging]
+[2024-05-28 12:39:18,879: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-28 12:39:18,881: INFO: common: Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-28 12:39:18,882: INFO: common: Archivo YAML: params.yaml cargado con éxito]
+[2024-05-28 12:39:18,883: INFO: common: Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-28 12:39:18,883: INFO: common: Directorio creado en: artifacts]
+[2024-05-28 12:39:18,885: INFO: common: Directorio creado en: artifacts/data_ingestion]
+[2024-05-28 12:39:19,474: INFO: data_ingestion: artifacts/data_ingestion/sales_train_merged.zip download! with following info: 
+Server: GitHub.com
+Date: Tue, 28 May 2024 10:39:19 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"6774966bbc69d416ff5a68be4e73757e"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com api.githubcopilot.com objects-origin.githubusercontent.com copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com copilot-workspace.githubnext.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=ipJjqz0u7mkf7ZiH%2FWJVO0RQg4nUqoFtbNQ6NJM4kINzBDyxPKo3oacVBIBgBiTFFiGMgZwwJl6VAMru9q1JS1V%2B0za1fAB4VQxvnBGYV6AZbLWIXrfbpbg37%2BaRMU81yT8%2B%2BH84spHYXeNGcNeG5SDvjkCMfzvdCF87z47oyZ5%2F9ziMLbTVPUr%2FOLsybF6oS7R6rklWRDOdVoDUMuGltJTav8HZOFTDCYe4oIWSf7%2FvVZaYE0g7SAMLAxYzkorvjGHjN%2B7%2BHuCZGih%2F%2BWdWqQ%3D%3D--9NhrCukAH8%2BoOswM--0HsQinEPcji5w5h71ZFFkg%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.1669848394.1716892759; Path=/; Domain=github.com; Expires=Wed, 28 May 2025 10:39:19 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Wed, 28 May 2025 10:39:19 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: 959C:6FC7E:1497F14C:14EAC976:6655B457
+connection: close
+
+]
+[2024-05-28 12:39:19,521: ERROR: main: File is not a zip file]
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\main.py", line 14, in <module>
+    data_ingestion.main()
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\src\pipe_forecast\pipeline\stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\src\pipe_forecast\components\data_ingestion.py", line 37, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\zipfile\__init__.py", line 1341, in __init__
+    self._RealGetContents()
+  File "C:\Python312\Lib\zipfile\__init__.py", line 1408, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2024-05-28 12:39:52,523: INFO: main: custom logging]
+[2024-05-28 12:39:53,003: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-28 12:39:53,004: INFO: common: Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-28 12:39:53,006: INFO: common: Archivo YAML: params.yaml cargado con éxito]
+[2024-05-28 12:39:53,007: INFO: common: Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-28 12:39:53,007: INFO: common: Directorio creado en: artifacts]
+[2024-05-28 12:39:53,008: INFO: common: Directorio creado en: artifacts/data_ingestion]
+[2024-05-28 12:39:53,683: INFO: data_ingestion: artifacts/data_ingestion/sales_train_merged.zip download! with following info: 
+Server: GitHub.com
+Date: Tue, 28 May 2024 10:39:53 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"88dd0a59219bbf209319f3ad3dd24709"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com api.githubcopilot.com objects-origin.githubusercontent.com copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com copilot-workspace.githubnext.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=%2BP2MpNcgxX7ptqrNP2IkqFxLqy1XINDe%2FZaVEjmfHC9yhmujaLxPbDFIuCLalITPyilynGOQPzo4hdfvyjpYeEEcqArxid15F2i1Jz34I4hqUR2PI6F14plEXJZzVn%2B1hdBJjl38Mh2XOeFMb9H7aaFzaHhMu5nGbJsPc7Z11GKiIXFRkee4UXQwbIFOko2RuMnwqk9bjdnvC9BoW06QjGhkiFSVlOeijXXyby5bvijGeAjkGCCH05%2FJ2IB6YFnJyup2nghZHa33h5nrryXgIQ%3D%3D--fzM13ZlOx7LhgVrN--h%2BTfou0EDNc8Lp6Mm7Akkg%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.328683215.1716892793; Path=/; Domain=github.com; Expires=Wed, 28 May 2025 10:39:53 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Wed, 28 May 2025 10:39:53 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: 95B9:12DC7E:A66F1D5:A8D687D:6655B479
+connection: close
+
+]
+[2024-05-28 12:39:53,843: ERROR: main: File is not a zip file]
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\main.py", line 14, in <module>
+    data_ingestion.main()
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\src\pipe_forecast\pipeline\stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\src\pipe_forecast\components\data_ingestion.py", line 37, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\zipfile\__init__.py", line 1341, in __init__
+    self._RealGetContents()
+  File "C:\Python312\Lib\zipfile\__init__.py", line 1408, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2024-05-28 12:40:18,661: INFO: main: custom logging]
+[2024-05-28 12:40:19,184: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-28 12:40:19,186: INFO: common: Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-28 12:40:19,187: INFO: common: Archivo YAML: params.yaml cargado con éxito]
+[2024-05-28 12:40:19,188: INFO: common: Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-28 12:40:19,189: INFO: common: Directorio creado en: artifacts]
+[2024-05-28 12:40:19,190: INFO: common: Directorio creado en: artifacts/data_ingestion]
+[2024-05-28 12:40:19,191: INFO: data_ingestion: File already exists of size: ~ 146 KB]
+[2024-05-28 12:40:19,192: ERROR: main: File is not a zip file]
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\main.py", line 14, in <module>
+    data_ingestion.main()
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\src\pipe_forecast\pipeline\stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\src\pipe_forecast\components\data_ingestion.py", line 37, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\zipfile\__init__.py", line 1341, in __init__
+    self._RealGetContents()
+  File "C:\Python312\Lib\zipfile\__init__.py", line 1408, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2024-05-28 12:43:59,850: INFO: main: custom logging]
+[2024-05-28 12:44:00,560: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-28 12:44:00,561: INFO: common: Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-28 12:44:00,562: INFO: common: Archivo YAML: params.yaml cargado con éxito]
+[2024-05-28 12:44:00,564: INFO: common: Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-28 12:44:00,565: INFO: common: Directorio creado en: artifacts]
+[2024-05-28 12:44:00,565: INFO: common: Directorio creado en: artifacts/data_ingestion]
+[2024-05-28 12:44:00,566: INFO: data_ingestion: File already exists of size: ~ 146 KB]
+[2024-05-28 12:44:00,568: ERROR: main: File is not a zip file]
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\main.py", line 14, in <module>
+    data_ingestion.main()
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\src\pipe_forecast\pipeline\stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\src\pipe_forecast\components\data_ingestion.py", line 37, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\zipfile\__init__.py", line 1341, in __init__
+    self._RealGetContents()
+  File "C:\Python312\Lib\zipfile\__init__.py", line 1408, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2024-05-28 12:46:35,110: INFO: main: custom logging]
+[2024-05-28 12:48:03,378: INFO: main: custom logging]
+[2024-05-28 12:48:52,593: INFO: main: custom logging]
+[2024-05-28 12:48:53,080: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-28 12:48:53,082: INFO: common: Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-28 12:48:53,083: INFO: common: Archivo YAML: params.yaml cargado con éxito]
+[2024-05-28 12:48:53,083: INFO: common: Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-28 12:48:53,084: INFO: common: Directorio creado en: artifacts]
+[2024-05-28 12:48:53,085: INFO: common: Directorio creado en: artifacts/data_ingestion]
+[2024-05-28 12:48:53,768: INFO: data_ingestion: artifacts/data_ingestion/sales_train_merged.zip download! with following info: 
+Server: GitHub.com
+Date: Tue, 28 May 2024 10:48:53 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"1e9bf693a6237a59d1602f1aff895591"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com api.githubcopilot.com objects-origin.githubusercontent.com copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com copilot-workspace.githubnext.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=h76MrsXtkQdBwknz%2FOgUwBXgy0AZPKCKLHs8erKMQgOxlUOuXtUN487CbLzlcf2VX%2FfB9oTt1ACpLmJMvR2jTGKWZd6VyBZnuTTNaDLbUmrXDrwAxJnjkG9sysTwT8TivGWSL0O4i4WOtr9ltHLUV%2FYFjYieAK%2BjRAEHWACzvixgNvGBU06tBfV7%2F3Yq%2B%2BgK8HvS6o17Pc7von5lB0drJkuS25F4TK4JUYu9ENklMf9a4lVG%2B8aoAdXmny3b4v8XyaN3oQpveULRFXoVCZQV6Q%3D%3D--HQd3vyib4DKzjwPg--YKr7k5hKsNB%2FeVvkX4yvLw%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.1793755067.1716893333; Path=/; Domain=github.com; Expires=Wed, 28 May 2025 10:48:53 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Wed, 28 May 2025 10:48:53 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: 99AC:327281:15302CAC:158326A3:6655B695
+connection: close
+
+]
+[2024-05-28 12:48:53,819: ERROR: main: File is not a zip file]
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\main.py", line 14, in <module>
+    data_ingestion.main()
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\src\pipe_forecast\pipeline\stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\src\pipe_forecast\components\data_ingestion.py", line 37, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\zipfile\__init__.py", line 1341, in __init__
+    self._RealGetContents()
+  File "C:\Python312\Lib\zipfile\__init__.py", line 1408, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2024-05-28 14:20:42,880: INFO: main: custom logging]
+[2024-05-28 14:20:44,049: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-28 14:20:44,050: INFO: common: Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-28 14:20:44,059: INFO: common: Archivo YAML: params.yaml cargado con éxito]
+[2024-05-28 14:20:44,062: INFO: common: Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-28 14:20:44,063: INFO: common: Directorio creado en: artifacts]
+[2024-05-28 14:20:44,064: INFO: common: Directorio creado en: artifacts/data_ingestion]
+[2024-05-28 14:20:44,805: INFO: data_ingestion: artifacts/data_ingestion/sales_train_merged.zip download! with following info: 
+Server: GitHub.com
+Date: Tue, 28 May 2024 12:20:44 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"353a43857d14dbae611cad2e8ec26050"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com api.githubcopilot.com objects-origin.githubusercontent.com copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com copilot-workspace.githubnext.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=J27vHrpm%2BjBzNtdF2lg6ua%2BEZ0MVQLMgEWWliPz6KCNeN7qLrorXgaT0Vs27pXE4pxWlFKfoRJ2bEUlxMOQWOyJXMpcYnFf8xs65uqqghHqsdYqtoGfLOQFZ9eBSnUkr9xevj2vCDBF5ijJUxgJdA5h9kqOmL0g%2BZnxigxyjGSlktjYa3S4KnrMxQACo%2BR0Ob25Pcs4B%2F46PHl4DbtPbbMYneISdl53cyJFY5JEkDH24AHXprDIuvHFQg5zAyb1TtRuCFxTBVDjOpYQ6rUo4JQ%3D%3D--Vhge70UJtn4C11Au--aRQbHDP3%2BgjcJ8i1JtNcSg%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.1951836779.1716898844; Path=/; Domain=github.com; Expires=Wed, 28 May 2025 12:20:44 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Wed, 28 May 2025 12:20:44 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: 961F:3EB322:12A0E1FF:12E98200:6655CC1C
+connection: close
+
+]
+[2024-05-28 14:20:44,878: ERROR: main: File is not a zip file]
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\main.py", line 14, in <module>
+    data_ingestion.main()
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\src\pipe_forecast\pipeline\stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\src\pipe_forecast\components\data_ingestion.py", line 37, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\zipfile\__init__.py", line 1341, in __init__
+    self._RealGetContents()
+  File "C:\Python312\Lib\zipfile\__init__.py", line 1408, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2024-05-28 14:23:04,579: INFO: main: custom logging]
+[2024-05-28 14:23:05,241: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-28 14:23:05,243: INFO: common: Archivo YAML: config\config.yaml cargado con éxito]
+[2024-05-28 14:23:05,244: INFO: common: Archivo YAML: params.yaml cargado con éxito]
+[2024-05-28 14:23:05,245: INFO: common: Archivo YAML: schema.yaml cargado con éxito]
+[2024-05-28 14:23:05,246: INFO: common: Directorio creado en: artifacts]
+[2024-05-28 14:23:05,247: INFO: common: Directorio creado en: artifacts/data_ingestion]
+[2024-05-28 14:23:05,247: INFO: data_ingestion: File already exists of size: ~ 146 KB]
+[2024-05-28 14:23:05,249: ERROR: main: File is not a zip file]
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\main.py", line 14, in <module>
+    data_ingestion.main()
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\src\pipe_forecast\pipeline\stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+  File "C:\Users\Lenovo\Desktop\mlops-youtube\pipe-forecast\src\pipe_forecast\components\data_ingestion.py", line 37, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\zipfile\__init__.py", line 1341, in __init__
+    self._RealGetContents()
+  File "C:\Python312\Lib\zipfile\__init__.py", line 1408, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
